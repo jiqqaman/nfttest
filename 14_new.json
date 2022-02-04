@@ -3,7 +3,7 @@
   "symbol": "JNT",
   "description": "Random NFT Test",
   "seller_fee_basis_points": 1500,
-  "image": "14.png",
+  "image": "https://github.com/jiqqaman/nfttest/blob/main/14.png",
   "external_url": "https://www.youtube.com/c/dubz",
   "edition": 14,
   "attributes": [
@@ -23,7 +23,7 @@
   "properties": {
     "files": [
       {
-        "uri": "14.png",
+        "uri": "https://github.com/jiqqaman/nfttest/blob/main/14.png",
         "type": "image/png"
       }
     ],
