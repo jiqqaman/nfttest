@@ -1,0 +1,38 @@
+{
+  "name": "JayEL NFT Test #14 Special",
+  "symbol": "JNT",
+  "description": "Random NFT Test",
+  "seller_fee_basis_points": 1500,
+  "image": "14.png",
+  "external_url": "https://www.youtube.com/c/dubz",
+  "edition": 14,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bluegradient"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Text",
+      "value": "1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "14.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "hkR3GhBbqhM7CGSDgZjfD2zqqhJ7zxqfqH1NyoqaPGC",
+        "share": 100
+      }
+    ]
+  }
+}
