@@ -18,6 +18,10 @@
     {
       "trait_type": "Text",
       "value": "1"
+    },
+    {
+      "trait_type": "New Trait",
+      "value": "New"
     }
   ],
   "properties": {
